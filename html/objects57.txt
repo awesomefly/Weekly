@@ -1,0 +1,460 @@
+{
+	"data": [
+	{
+		"汇报人": "Tiger Nixon",
+			"主管": "System Architect",
+			"salary": "$320,800",
+			"时间": "2011/04/25",
+			"项目组": "Edinburgh",
+			"评分": "5421"
+	},
+	{
+		"汇报人": "Garrett Winters",
+		"主管": "Accountant",
+		"salary": "$170,750",
+		"时间": "2011/07/25",
+		"项目组": "Tokyo",
+		"评分": "8422"
+	},
+	{
+		"汇报人": "Ashton Cox",
+		"主管": "Junior Technical Author",
+		"salary": "$86,000",
+		"时间": "2009/01/12",
+		"项目组": "San Francisco",
+		"评分": "1562"
+	},
+	{
+		"汇报人": "Cedric Kelly",
+		"主管": "Senior Javascript Developer",
+		"salary": "$433,060",
+		"时间": "2012/03/29",
+		"项目组": "Edinburgh",
+		"评分": "6224"
+	},
+	{
+		"汇报人": "Airi Satou",
+		"主管": "Accountant",
+		"salary": "$162,700",
+		"时间": "2008/11/28",
+		"项目组": "Tokyo",
+		"评分": "5407"
+	},
+	{
+		"汇报人": "Brielle Williamson",
+		"主管": "Integration Specialist",
+		"salary": "$372,000",
+		"时间": "2012/12/02",
+		"项目组": "New York",
+		"评分": "4804"
+	},
+	{
+		"汇报人": "Herrod Chandler",
+		"主管": "Sales Assistant",
+		"salary": "$137,500",
+		"时间": "2012/08/06",
+		"项目组": "San Francisco",
+		"评分": "9608"
+	},
+	{
+		"汇报人": "Rhona Davidson",
+		"主管": "Integration Specialist",
+		"salary": "$327,900",
+		"时间": "2010/10/14",
+		"项目组": "Tokyo",
+		"评分": "6200"
+	},
+	{
+		"汇报人": "Colleen Hurst",
+		"主管": "Javascript Developer",
+		"salary": "$205,500",
+		"时间": "2009/09/15",
+		"项目组": "San Francisco",
+		"评分": "2360"
+	},
+	{
+		"汇报人": "Sonya Frost",
+		"主管": "Software Engineer",
+		"salary": "$103,600",
+		"时间": "2008/12/13",
+		"项目组": "Edinburgh",
+		"评分": "1667"
+	},
+	{
+		"汇报人": "Jena Gaines",
+		"主管": "Office Manager",
+		"salary": "$90,560",
+		"时间": "2008/12/19",
+		"项目组": "London",
+		"评分": "3814"
+	},
+	{
+		"汇报人": "Quinn Flynn",
+		"主管": "Support Lead",
+		"salary": "$342,000",
+		"时间": "2013/03/03",
+		"项目组": "Edinburgh",
+		"评分": "9497"
+	},
+	{
+		"汇报人": "Charde Marshall",
+		"主管": "Regional Director",
+		"salary": "$470,600",
+		"时间": "2008/10/16",
+		"项目组": "San Francisco",
+		"评分": "6741"
+	},
+	{
+		"汇报人": "Haley Kennedy",
+		"主管": "Senior Marketing Designer",
+		"salary": "$313,500",
+		"时间": "2012/12/18",
+		"项目组": "London",
+		"评分": "3597"
+	},
+	{
+		"汇报人": "Tatyana Fitzpatrick",
+		"主管": "Regional Director",
+		"salary": "$385,750",
+		"时间": "2010/03/17",
+		"项目组": "London",
+		"评分": "1965"
+	},
+	{
+		"汇报人": "Michael Silva",
+		"主管": "Marketing Designer",
+		"salary": "$198,500",
+		"时间": "2012/11/27",
+		"项目组": "London",
+		"评分": "1581"
+	},
+	{
+		"汇报人": "Paul Byrd",
+		"主管": "Chief Financial Officer (CFO)",
+		"salary": "$725,000",
+		"时间": "2010/06/09",
+		"项目组": "New York",
+		"评分": "3059"
+	},
+	{
+		"汇报人": "Gloria Little",
+		"主管": "Systems Administrator",
+		"salary": "$237,500",
+		"时间": "2009/04/10",
+		"项目组": "New York",
+		"评分": "1721"
+	},
+	{
+		"汇报人": "Bradley Greer",
+		"主管": "Software Engineer",
+		"salary": "$132,000",
+		"时间": "2012/10/13",
+		"项目组": "London",
+		"评分": "2558"
+	},
+	{
+		"汇报人": "Dai Rios",
+		"主管": "Personnel Lead",
+		"salary": "$217,500",
+		"时间": "2012/09/26",
+		"项目组": "Edinburgh",
+		"评分": "2290"
+	},
+	{
+		"汇报人": "Jenette Caldwell",
+		"主管": "Development Lead",
+		"salary": "$345,000",
+		"时间": "2011/09/03",
+		"项目组": "New York",
+		"评分": "1937"
+	},
+	{
+		"汇报人": "Yuri Berry",
+		"主管": "Chief Marketing Officer (CMO)",
+		"salary": "$675,000",
+		"时间": "2009/06/25",
+		"项目组": "New York",
+		"评分": "6154"
+	},
+	{
+		"汇报人": "Caesar Vance",
+		"主管": "Pre-Sales Support",
+		"salary": "$106,450",
+		"时间": "2011/12/12",
+		"项目组": "New York",
+		"评分": "8330"
+	},
+	{
+		"汇报人": "Doris Wilder",
+		"主管": "Sales Assistant",
+		"salary": "$85,600",
+		"时间": "2010/09/20",
+		"项目组": "Sidney",
+		"评分": "3023"
+	},
+	{
+		"汇报人": "Angelica Ramos",
+		"主管": "Chief Executive Officer (CEO)",
+		"salary": "$1,200,000",
+		"时间": "2009/10/09",
+		"项目组": "London",
+		"评分": "5797"
+	},
+	{
+		"汇报人": "Gavin Joyce",
+		"主管": "Developer",
+		"salary": "$92,575",
+		"时间": "2010/12/22",
+		"项目组": "Edinburgh",
+		"评分": "8822"
+	},
+	{
+		"汇报人": "Jennifer Chang",
+		"主管": "Regional Director",
+		"salary": "$357,650",
+		"时间": "2010/11/14",
+		"项目组": "Singapore",
+		"评分": "9239"
+	},
+	{
+		"汇报人": "Brenden Wagner",
+		"主管": "Software Engineer",
+		"salary": "$206,850",
+		"时间": "2011/06/07",
+		"项目组": "San Francisco",
+		"评分": "1314"
+	},
+	{
+		"汇报人": "Fiona Green",
+		"主管": "Chief Operating Officer (COO)",
+		"salary": "$850,000",
+		"时间": "2010/03/11",
+		"项目组": "San Francisco",
+		"评分": "2947"
+	},
+	{
+		"汇报人": "Shou Itou",
+		"主管": "Regional Marketing",
+		"salary": "$163,000",
+		"时间": "2011/08/14",
+		"项目组": "Tokyo",
+		"评分": "8899"
+	},
+	{
+		"汇报人": "Michelle House",
+		"主管": "Integration Specialist",
+		"salary": "$95,400",
+		"时间": "2011/06/02",
+		"项目组": "Sidney",
+		"评分": "2769"
+	},
+	{
+		"汇报人": "Suki Burks",
+		"主管": "Developer",
+		"salary": "$114,500",
+		"时间": "2009/10/22",
+		"项目组": "London",
+		"评分": "6832"
+	},
+	{
+		"汇报人": "Prescott Bartlett",
+		"主管": "Technical Author",
+		"salary": "$145,000",
+		"时间": "2011/05/07",
+		"项目组": "London",
+		"评分": "3606"
+	},
+	{
+		"汇报人": "Gavin Cortez",
+		"主管": "Team Leader",
+		"salary": "$235,500",
+		"时间": "2008/10/26",
+		"项目组": "San Francisco",
+		"评分": "2860"
+	},
+	{
+		"汇报人": "Martena Mccray",
+		"主管": "Post-Sales support",
+		"salary": "$324,050",
+		"时间": "2011/03/09",
+		"项目组": "Edinburgh",
+		"评分": "8240"
+	},
+	{
+		"汇报人": "Unity Butler",
+		"主管": "Marketing Designer",
+		"salary": "$85,675",
+		"时间": "2009/12/09",
+		"项目组": "San Francisco",
+		"评分": "5384"
+	},
+	{
+		"汇报人": "Howard Hatfield",
+		"主管": "Office Manager",
+		"salary": "$164,500",
+		"时间": "2008/12/16",
+		"项目组": "San Francisco",
+		"评分": "7031"
+	},
+	{
+		"汇报人": "Hope Fuentes",
+		"主管": "Secretary",
+		"salary": "$109,850",
+		"时间": "2010/02/12",
+		"项目组": "San Francisco",
+		"评分": "6318"
+	},
+	{
+		"汇报人": "Vivian Harrell",
+		"主管": "Financial Controller",
+		"salary": "$452,500",
+		"时间": "2009/02/14",
+		"项目组": "San Francisco",
+		"评分": "9422"
+	},
+	{
+		"汇报人": "Timothy Mooney",
+		"主管": "Office Manager",
+		"salary": "$136,200",
+		"时间": "2008/12/11",
+		"项目组": "London",
+		"评分": "7580"
+	},
+	{
+		"汇报人": "Jackson Bradshaw",
+		"主管": "Director",
+		"salary": "$645,750",
+		"时间": "2008/09/26",
+		"项目组": "New York",
+		"评分": "1042"
+	},
+	{
+		"汇报人": "Olivia Liang",
+		"主管": "Support Engineer",
+		"salary": "$234,500",
+		"时间": "2011/02/03",
+		"项目组": "Singapore",
+		"评分": "2120"
+	},
+	{
+		"汇报人": "Bruno Nash",
+		"主管": "Software Engineer",
+		"salary": "$163,500",
+		"时间": "2011/05/03",
+		"项目组": "London",
+		"评分": "6222"
+	},
+	{
+		"汇报人": "Sakura Yamamoto",
+		"主管": "Support Engineer",
+		"salary": "$139,575",
+		"时间": "2009/08/19",
+		"项目组": "Tokyo",
+		"评分": "9383"
+	},
+	{
+		"汇报人": "Thor Walton",
+		"主管": "Developer",
+		"salary": "$98,540",
+		"时间": "2013/08/11",
+		"项目组": "New York",
+		"评分": "8327"
+	},
+	{
+		"汇报人": "Finn Camacho",
+		"主管": "Support Engineer",
+		"salary": "$87,500",
+		"时间": "2009/07/07",
+		"项目组": "San Francisco",
+		"评分": "2927"
+	},
+	{
+		"汇报人": "Serge Baldwin",
+		"主管": "Data Coordinator",
+		"salary": "$138,575",
+		"时间": "2012/04/09",
+		"项目组": "Singapore",
+		"评分": "8352"
+	},
+	{
+		"汇报人": "Zenaida Frank",
+		"主管": "Software Engineer",
+		"salary": "$125,250",
+		"时间": "2010/01/04",
+		"项目组": "New York",
+		"评分": "7439"
+	},
+	{
+		"汇报人": "Zorita Serrano",
+		"主管": "Software Engineer",
+		"salary": "$115,000",
+		"时间": "2012/06/01",
+		"项目组": "San Francisco",
+		"评分": "4389"
+	},
+	{
+		"汇报人": "Jennifer Acosta",
+		"主管": "Junior Javascript Developer",
+		"salary": "$75,650",
+		"时间": "2013/02/01",
+		"项目组": "Edinburgh",
+		"评分": "3431"
+	},
+	{
+		"汇报人": "Cara Stevens",
+		"主管": "Sales Assistant",
+		"salary": "$145,600",
+		"时间": "2011/12/06",
+		"项目组": "New York",
+		"评分": "3990"
+	},
+	{
+		"汇报人": "Hermione Butler",
+		"主管": "Regional Director",
+		"salary": "$356,250",
+		"时间": "2011/03/21",
+		"项目组": "London",
+		"评分": "1016"
+	},
+	{
+		"汇报人": "Lael Greer",
+		"主管": "Systems Administrator",
+		"salary": "$103,500",
+		"时间": "2009/02/27",
+		"项目组": "London",
+		"评分": "6733"
+	},
+	{
+		"汇报人": "Jonas Alexander",
+		"主管": "Developer",
+		"salary": "$86,500",
+		"时间": "2010/07/14",
+		"项目组": "San Francisco",
+		"评分": "8196"
+	},
+	{
+		"汇报人": "Shad Decker",
+		"主管": "Regional Director",
+		"salary": "$183,000",
+		"时间": "2008/11/13",
+		"项目组": "Edinburgh",
+		"评分": "6373"
+	},
+	{
+		"汇报人": "Michael Bruce",
+		"主管": "Javascript Developer",
+		"salary": "$183,000",
+		"时间": "2011/06/27",
+		"项目组": "Singapore",
+		"评分": "5384"
+	},
+	{
+		"汇报人": "Donna Snider",
+		"主管": "Customer Support",
+		"salary": "$112,000",
+		"时间": "2011/01/25",
+		"项目组": "New York",
+		"评分": "4226"
+	}
+	]
+}

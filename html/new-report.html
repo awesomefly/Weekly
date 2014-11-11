@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="css/plugins/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+         <div class="row">
+              <div class="col-lg-12">
+                   <h1 class="page-header">写周报</h1>
+              </div>
+              <!-- /.col-lg-12 -->
+          </div>
+          <!-- /.row -->
+	  <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <i class="fa fa-edit fa-fw"></i> 员工填写
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table id="report_tbl" class="table table-striped table-bordered table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>序号</th>
+                                            <th>工作安排</th>
+                                            <th>描述（背景、难点）</th>
+                                            <th>权重(100%)</th>
+                                            <th>完成情况</th>
+                                            <th name="td_opr">操作</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="report_body">
+                                        <tr>
+                                            <td contentEditable="false">1</td>
+                                            <td>Mark</td>
+                                            <td>Otto</td>
+                                            <td>@mdo</td>
+                                            <td>@mdo</td>
+											<td name="td_opr" contentEditable="false" onClick="func_rm_row(this)"><i id="i_opr" class="fa fa-minus-circle fa-fw"></i></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- /.table-responsive -->
+							<button id="btn_add_row" type="button" class="btn btn-md btn-block">添加一行</button>
+                        </div>
+                        <!-- /.panel-body -->
+                        <div class="panel-heading">
+                          <i class="fa fa-edit fa-fw"></i> 主管填写
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped table-bordered table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>评语</th>
+                                            <th>评分</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="review_body">
+                                        <tr>
+                                            <td>非常好</td>
+                                            <td>9.5</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- /.table-responsive -->
+                        </div>
+                        <!-- /.panel-body -->
+	   </div>
+           <!-- /.panel -->
+	   <button id="btn_save_to_draft" type="button" class="btn btn-warning btn-md btn-block">保存草稿箱</button>
+	   <button id="btn_save" type="button" class="btn btn-danger btn-md btn-block">保存并发送</button>
+   
+
+ 
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="js/plugins/metisMenu/metisMenu.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <!--script src="js/sb-admin-2.js"></script-->
+    <script src="js/new-report.js"></script>
+    <script>
+    $(document).ready(function() {
+		func_set_editable();
+		$("#btn_add_row").click(func_add_row);
+    });
+    </script>
+
+
+</body>
+
+</html>
+

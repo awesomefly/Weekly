@@ -1,0 +1,86 @@
+{
+	"recordsTotal":57,
+	"recordsFiltered":37,
+	"data": [
+	{
+		"汇报人": "Zenaida Frank",
+		"主管": "Software Engineer",
+		"salary": "$125,250",
+		"时间": "2010/01/04",
+		"项目组": "New York",
+		"评分": "7439"
+	},
+	{
+		"汇报人": "Zorita Serrano",
+		"主管": "Software Engineer",
+		"salary": "$115,000",
+		"时间": "2012/06/01",
+		"项目组": "San Francisco",
+		"评分": "4389"
+	},
+	{
+		"汇报人": "Jennifer Acosta",
+		"主管": "Junior Javascript Developer",
+		"salary": "$75,650",
+		"时间": "2013/02/01",
+		"项目组": "Edinburgh",
+		"评分": "3431"
+	},
+	{
+		"汇报人": "Cara Stevens",
+		"主管": "Sales Assistant",
+		"salary": "$145,600",
+		"时间": "2011/12/06",
+		"项目组": "New York",
+		"评分": "3990"
+	},
+	{
+		"汇报人": "Hermione Butler",
+		"主管": "Regional Director",
+		"salary": "$356,250",
+		"时间": "2011/03/21",
+		"项目组": "London",
+		"评分": "1016"
+	},
+	{
+		"汇报人": "Lael Greer",
+		"主管": "Systems Administrator",
+		"salary": "$103,500",
+		"时间": "2009/02/27",
+		"项目组": "London",
+		"评分": "6733"
+	},
+	{
+		"汇报人": "Jonas Alexander",
+		"主管": "Developer",
+		"salary": "$86,500",
+		"时间": "2010/07/14",
+		"项目组": "San Francisco",
+		"评分": "8196"
+	},
+	{
+		"汇报人": "Shad Decker",
+		"主管": "Regional Director",
+		"salary": "$183,000",
+		"时间": "2008/11/13",
+		"项目组": "Edinburgh",
+		"评分": "6373"
+	},
+	{
+		"汇报人": "Michael Bruce",
+		"主管": "Javascript Developer",
+		"salary": "$183,000",
+		"时间": "2011/06/27",
+		"项目组": "Singapore",
+		"评分": "5384"
+	},
+	{
+		"汇报人": "Donna Snider",
+		"主管": "Customer Support",
+		"salary": "$112,000",
+		"时间": "2011/01/25",
+		"项目组": "New York",
+		"评分": "4226"
+	}
+	]
+}
